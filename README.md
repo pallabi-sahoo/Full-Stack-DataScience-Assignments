@@ -1,1 +1,1 @@
-# Full-Stack-DataScience-Assignments
+# Ineuron-Full-Stack-DataScience-Assignments
